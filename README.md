@@ -1,2 +1,2 @@
 # Pretraining-LLMs 
-Practice
+Learn & Practice
